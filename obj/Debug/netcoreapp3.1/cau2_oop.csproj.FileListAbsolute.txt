@@ -1,0 +1,13 @@
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\bin\Debug\netcoreapp3.1\cau2_oop.exe
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\bin\Debug\netcoreapp3.1\cau2_oop.deps.json
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\bin\Debug\netcoreapp3.1\cau2_oop.runtimeconfig.json
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\bin\Debug\netcoreapp3.1\cau2_oop.runtimeconfig.dev.json
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\bin\Debug\netcoreapp3.1\cau2_oop.dll
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\bin\Debug\netcoreapp3.1\cau2_oop.pdb
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\obj\Debug\netcoreapp3.1\cau2_oop.csprojAssemblyReference.cache
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\obj\Debug\netcoreapp3.1\cau2_oop.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\obj\Debug\netcoreapp3.1\cau2_oop.AssemblyInfo.cs
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\obj\Debug\netcoreapp3.1\cau2_oop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\obj\Debug\netcoreapp3.1\cau2_oop.dll
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\obj\Debug\netcoreapp3.1\cau2_oop.pdb
+C:\Users\asus\Documents\PXU.GYM\cau2_oop\obj\Debug\netcoreapp3.1\cau2_oop.genruntimeconfig.cache
